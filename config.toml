@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://dreamy-shirley-20d49f.netlify.app/"
 title = "Software Engineer"
 theme ="hugo-theme-developer-portfolio"
 languageCode = "en-us"
